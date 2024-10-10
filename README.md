@@ -18,7 +18,7 @@ benchmarking/baselines_models
 benchmarking/gnn_model.py
 benchmarking/get_heuristic.py
 
-The original WSLP models from utilized from the HeaRT paper by Tang et al can be found here:
+The original WSLP models from utilized from the HeaRT paper by Li et al can be found here:
 https://github.com/Juanhui28/HeaRT
 
 Please cite their work if utilizing them:
